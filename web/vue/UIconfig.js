@@ -6,12 +6,12 @@
 const CONFIG = {
   headless: false,
   api: {
-    host: '37.97.180.108'
+    host: '0.0.0.0'
     port: 3000,
   },
   ui: {
     ssl: false,
-    host: '0.0.0.0',
+    host: '37.97.180.108',
     port: 3000,
     path: '/'
   },
